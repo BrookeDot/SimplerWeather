@@ -103,7 +103,7 @@ Simple Weather Java Switches to DarkSky */
               low: getAltTemp( options.unit, weather.low )
             };
 
-            if( options.forcast &&
+            if( options.forecast &&
               parseInt( options.forecastdays ) !== "NaN" ) {
 
               weather.forecast = [];
