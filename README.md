@@ -1,3 +1,18 @@
+# ⚠️ WARNING - This Project is Archived
+
+This repository is no longer maintained and is kept here for historical reference and educational use only.
+
+ **Why was this project archived?**
+- Contains outdated dependency on DarkSky, which was discontinued following Apple's acquisition
+- Heavy reliance on jQuery made the project undesirable at scale
+
+**For existing users**: You may continue to use this project at your own risk, but be aware that:
+- Bug fixes and security updates will not be provided
+- Critical dependencies are no longer available or maintained
+- Support is not available
+
+ Consider forking this repository if you need to continue development or use it as a reference for learning purposes.
+
 # SimplerWeather
 
 This is Simple weather plugin for jQuery which is based on [jQuery.simpleWeather](https://github.com/monkeecreate/jquery.simpleWeather) by [James Fleeting](https://twitter.com/fleetingftw). It updates the original library from using Yahoo's Weather API to instead use the [Dark Sky API](https://darksky.net/dev).
